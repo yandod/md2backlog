@@ -1,5 +1,5 @@
 # これは何？
-markdown形式で書かれたテキストをnulabのbacklogのWikiの形式に変換するスクリプトです。
+markdown形式で書かれたテキストを[NuLab](http://www.nulab.co.jp/)の[backlog](http://www.backlog.jp/)のWikiの形式に変換するスクリプトです。
 kramdownを使ってmarkdownをパースし、HTMLに出力する流れをフックして作成しています。
 
 # 使い方
